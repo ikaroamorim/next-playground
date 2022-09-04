@@ -1,0 +1,14 @@
+.container {
+  padding: 0 2rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card,
+  .footer {
+    border-color: #222;
+  }
+  .code {
+    background: #111;
+  }
+
+}
